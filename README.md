@@ -1,0 +1,2 @@
+# tietokantadok
+Tietokantapalvelinharjoituksien dokumentaatio ja esimerkkikoodit
